@@ -7,7 +7,7 @@ Freelance developer specialising in Python, Discord bots and sound design.
 - **SQL** — SQLite, database design
 - **JavaScript** — Coming soon
 - **HTML/CSS** — Coming soon
-- **Sound Design** — BandLab, Audacity, Soundtrap
+- **Sound Design** — BandLab, Audacity, fl studios
 
 ## 🤖 Projects
 | Project | Description | Tech |
