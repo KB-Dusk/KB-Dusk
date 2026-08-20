@@ -12,8 +12,9 @@ Freelance developer specialising in Python, Discord bots and sound design.
 ## 🤖 Projects
 | Project | Description | Tech |
 |---|---|---|
-| [Dusk Discord Bots](https://github.com/KB-Dusk/dusk-discord-bots) | Moderation and economy Discord bot suite | Python, SQLite, discord.py |
-| [Music API](https://github.com/KB-Dusk/music-api) | REST API serving music data | Python, Flask, SQLite |
+| [Dusk Discord Bots](https://github.com/KB-Dusk/dusk-discord-bots) | Moderation and economy Discord bot suite with SQLite persistence | Python, SQLite, discord.py |
+| [Music API](https://github.com/KB-Dusk/music-api) | REST API serving music data with full CRUD operations | Python, Flask, SQLite |
+| [Portfolio Site](https://KB-Dusk.github.io) | Personal developer portfolio with dusk gradient theme | HTML, CSS, JavaScript |
 
 ## 📫 Contact
 - Discord: KB DUSK
